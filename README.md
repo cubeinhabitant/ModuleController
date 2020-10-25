@@ -22,7 +22,7 @@ Mini.
 |   7 |  D4         | Flash Memory CS |
 |   8 | ~D5         | DataOutput1PWM  |
 |   9 | ~D6         | DataOutput2PWM  |
-|  10 |  D7         |                 |
+|  10 |  D7         | SceneActive LED |
 |  11 |  D8         |                 |
 |  12 | ~D9         | Servo1          |
 |  13 | ~D10        | Servo2          |
@@ -31,13 +31,13 @@ Mini.
 |  16 |  D13 SCK    | Flash Memory    |
 |  17 | 3V3         |                 |
 |  18 | AREF        |                 |
-|  19 |  D14 A0     | TriggerDigital1 |
-|  20 |  D15 A1     | TriggerDigital2 |
-|  21 |  D16 A2     | DFPlayerMini TX |
-|  22 |  D17 A3     | DFPlayerMini RX |
-|  23 |  D18 A4 SDA | I2C             |
-|  24 |  D19 A5 SCL | I2C             |
-|  25 |  D20 A6     | ~~SceneActive LED~~ |
-|  26 |  D21 A7     |                 |
+|  19 |  A0 D14     | TriggerDigital1 |
+|  20 |  A1 D15     | TriggerDigital2 |
+|  21 |  A2 D16     | DFPlayerMini TX |
+|  22 |  A3 D17     | DFPlayerMini RX |
+|  23 |  A4 D18 SDA | I2C             |
+|  24 |  A5 D19 SCL | I2C             |
+|  25 |  A6         |                 |
+|  26 |  A7         |                 |
 |  27 | 5V          |                 |
 |  28 | RESET       |                 |
