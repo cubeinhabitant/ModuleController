@@ -37,7 +37,7 @@ Mini.
 |  22 |  D17 A3     | DFPlayerMini RX |
 |  23 |  D18 A4 SDA | I2C             |
 |  24 |  D19 A5 SCL | I2C             |
-|  25 |  D20 A6     | SceneActive LED |
+|  25 |  D20 A6     | ~~SceneActive LED~~ |
 |  26 |  D21 A7     |                 |
 |  27 | 5V          |                 |
 |  28 | RESET       |                 |
